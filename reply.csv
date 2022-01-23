@@ -1,0 +1,53 @@
+﻿
+1,I think we are trying to list out the last name of the athletes that are in countries that neither have competed yet or none of their athletes have ranked in the top 3 so far.,2021/9/5 16:35,ize3lkeNiR,Question 1 Clarification,YjairWTC40
+2,Yes Elaine is correct in this response.,2021/9/5 20:45,WJrWAidLZ5,Question 1 Clarification,YjairWTC40
+1,The relational schema is the structure and design of the relation such as the attribute list. The relation state is like the table content at any given moment.,2021/9/5 13:35,ize3lkeNiR,Conceptual question - relational state vs relational schema,YjairWTC40
+2,You can draw an analogy between the relational schema and classes in Java. Then you can think of relation state as the objects that are defined at that particular time.,2021/9/5 15:45,A1Kcf8Z1u3,Conceptual question - relational state vs relational schema,YjairWTC40
+1,The numbers seem to be incorrect and it seems the points were posted?,2021/10/15 13:32,ize3lkeNiR,Assignment 2 Graded,YjairWTC40
+2,Sorry about the mistake the correct question items were posted now.,2021/10/15 20:02,A1Kcf8Z1u3,Assignment 2 Graded,YjairWTC40
+3,Where can we find the spreadsheet?,2021/10/15 23:32,A3mMrNEFsy,Assignment 2 Graded,YjairWTC40
+4,The spreadsheet is under the Assignment2 folder.,2021/10/15 23:59,tmt3aPs20s,Assignment 2 Graded,YjairWTC40
+5,Thanks Nikhil!,2021/10/16 0:11,A3mMrNEFsy,Assignment 2 Graded,YjairWTC40
+1,You can assume that each city has a distance name so you would consider Atlanta GA to be the same name as Atlanta FL,2021/10/9 10:24,A1Kcf8Z1u3,HW3 Q2,YjairWTC40
+2,Does this apply for Q9 as well?,2021/10/25 13:45,Xo3aGKAsfE,HW3 Q2,YjairWTC40
+3,Not sure which part you are asking but if its whether Beaverton only exists in OR then no.,2021/10/25 18:21,A1Kcf8Z1u3,HW3 Q2,YjairWTC40
+1,You can use temporal relations (see WITH and FROM) to do this rather than create temporary tables,2021/10/16 6:23,PiQvBSPut9,HW3,YjairWTC40
+1,I believe just choosing a random card from the deck to deal out cards is enough.,2021/10/1 17:41,qBhsb9AT1D,Shuffle Deck,IvQtGSPKP9
+2,As long as there is some point of randomness that is involved it will be sufficient.,2021/10/1 18:51,A1Kcf8Z1u3,Shuffle Deck,IvQtGSPKP9
+3,Should we consider the situation when the deck is running out of cards?,2021/10/3 4:32,YXCMIivcy6,Shuffle Deck,IvQtGSPKP9
+4,Yes your application should gracefully handle this situation.,2021/10/3 8:47,cp5asEx6KR,Shuffle Deck,IvQtGSPKP9
+1,I think there's no specific rule in Blackjack for when an ace is counted as a 1 or an 11. I assumed we have to keep track of the total score in both cases: when the ace is a 1 and when the ace is an 11.,2021/10/1 20:23,wUSNkrt2i7,Ace value,IvQtGSPKP9
+2,The general rule of thumb is that the Ace will take on the value of whatever will help the holder the most,2021/10/1 23:22,RxNqRHaaoI,Ace value,IvQtGSPKP9
+1,Take advantage of what the method move() returns. It is true in certain situations and false in others. You can then push depending on the value.,2021/10/14 17:11,YXCMIivcy6,Possible legal moves,IvQtGSPKP9
+2,The move method checks if a move is legal for you. You should use this method to change the behavior of your code based on whether or not it returns true or false.,2021/10/15 5:19,RwKSObZt8b,Possible legal moves,IvQtGSPKP9
+1,This actually happened to me as well on the previous assignment. I was told that I wouldn't be penalized so I think you'll be fine,2021/10/16 10:04,qBhsb9AT1D,Filename changed after resubmission,IvQtGSPKP9
+2,Resubmissions with the same filename on Canvas will automatically add a -1 etc to the files. The student answer is correct in that you will not be penalized for this.,2021/10/16 12:01,QVsfnLS8nP,Filename changed after resubmission,IvQtGSPKP9
+1,Exceptions stop execution,2021/10/31 20:01,wUSNkrt2i7,Exceptions,IvQtGSPKP9
+1,I think the bowtie means natural join,2021/2/4 7:05,v9ksRoAENe,RA operation,a9sskUPpbH
+1,Everything up until today's lecture can be included as material on the exam,2021/4/9 20:26,JulFHBBgP9,Midterm content,a9sskUPpbH
+1,Use homebrew to install Postgres on Mac and Linux. Download the windows installer to install on Windows.,2021/3/21 10:59,A1Kcf8Z1u3,SQL server,a9sskUPpbH
+1,I think it does matter. I must be after the WHERE clause and before the HAVING; LIMIT; and ORDER BY,2021/3/29 4:47,OhfDW5FQet,GROUP BY query,a9sskUPpbH
+2,Hanna is correct. SQL first executes the FROM; then WHERE; before finally performing the GROUP BY clause,2021/3/29 9:35,A1Kcf8Z1u3,GROUP BY query,a9sskUPpbH
+1,Please submit a regrade request via email to me with the email header [CS377],2021/4/25 13:39,JulFHBBgP9,Regrade request,a9sskUPpbH
+1,Have you tried reloading the page or clearing your cache?,2021/4/10 17:01,Rjuqf7P3nX,Week 10 Prep,a9sskUPpbH
+1,Try cloud.google.com,2021/4/17 16:11,QVsfnLS8nP,Week 11 Prep,a9sskUPpbH
+1,Everything covered in the class can appear on the final exam,2021/5/1 5:48,JulFHBBgP9,Final content,a9sskUPpbH
+1,2NF looks at partial functional dependency while 3NF ensures no non-prime attribute functionally determines another non-prime attribute,2021/4/26 7:35,JulFHBBgP9,Database normalization,a9sskUPpbH
+2,Why is database normalization important?,2021/4/26 8:11,qjAClhRo8T,Database normalization,a9sskUPpbH
+3,Database normalization is important because it's a rite of passage into the database community,2021/4/26 12:41,Rjuqf7P3nX,Database normalization,a9sskUPpbH
+1,I like Sublime Text Editor and using the command line to compile,2020/9/15 8:01,RxNqRHaaoI,Java IDE,JqFUfLAumt
+2,Have you tried Eclipse? It's the best!,2020/9/15 8:23,RwKSObZt8b,Java IDE,JqFUfLAumt
+3,What about Netbeans? It was originally part of the JDK.,2020/9/15 11:04,AnRRwDoMFm,Java IDE,JqFUfLAumt
+4,IntelliJ is also another useful IDE,2020/9/15 11:05,ECk9NPOnC1,Java IDE,JqFUfLAumt
+5,Microsoft Visual Studio has a student developer pack as well.,2020/9/15 11:55,JulFHBBgP9,Java IDE,JqFUfLAumt
+1,As long as its within reasonable time frames you will not be deducted points.,2020/10/13 22:55,ECk9NPOnC1,Runtime,JqFUfLAumt
+1,You may want to verify that you are appropriately updating your variables. Try using System.out.println.,2020/10/28 5:19,ECk9NPOnC1,Trouble with delete,JqFUfLAumt
+1,You may want to explore different shuffle variants that are found on Wikipedia.,2020/11/12 14:10,JulFHBBgP9,Shuffling for Quicksort,JqFUfLAumt
+1,You may want to rewatch the lecture 23 and reread the slides to see how this is solved for the general case.,2020/11/28 9:18,JulFHBBgP9,BST item deletion,JqFUfLAumt
+1,Please try using the GCP instance to avoid having to implement your local copy.,2020/2/28 7:41,JulFHBBgP9,Music Industry database Trouble,XVQf7mOI1Z
+1,No it doesn't matter so long as it can functionally browse the database.,2020/4/1 2:35,fC8CoZyN8g,Java GUI,XVQf7mOI1Z
+2,Do I need to sanitize the user input?,2020/4/1 11:05,tmt3aPs20s,Java GUI,XVQf7mOI1Z
+3,You can assume that we will be reasonable users and not try to hack your system.,2020/4/1 14:15,JulFHBBgP9,Java GUI,XVQf7mOI1Z
+1,I believe we should be using JDK 8.0,2020/4/2 19:47,WJrWAidLZ5,JDK version,XVQf7mOI1Z
+1,Yes they have been uploaded onto Canvas.,2020/4/10 14:49,JulFHBBgP9,Sample midterms,XVQf7mOI1Z
+1,No there won't be any solutions for the sample final problems.,2020/5/2 5:37,JulFHBBgP9,Sample final exams,XVQf7mOI1Z
